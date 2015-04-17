@@ -6,3 +6,5 @@ Djio is a play on the word (letters?) "DJ" and "Twilio". I should probably inclu
 
 You text the song you want to be played to a number provided by Twilio and, a server I will write in C will be running on my Raspberry Pi that will play any song texted.
 
+Current version is not at all working. I have just started programming this!
+
